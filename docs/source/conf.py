@@ -2,12 +2,12 @@
 
 # -- Project information
 
-#project = 'test-read'
+project = 'NGINX Plus Intro'
 copyright = '2023'
-author = 'Stock'
+author = 'F5'
 
-release = '0.1'
-version = '0.1.0'
+#release = '0.1'
+#version = '0.1.0'
 
 # -- General configuration
 
