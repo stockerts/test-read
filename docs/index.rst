@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   test1
-   test2
+   cow
+   dog
