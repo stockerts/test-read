@@ -1,17 +1,12 @@
-Welcome to Animals
-===================================
+NGINX Plus Introdution
+=====================
 
-Check out the :doc:`dog` section for further information, including
-how to :ref:`treats` the project.
+Welcome to our F5 NGINX Plus introduction, where you will install and configure an NGINX Plus Load Balancer.
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+Index
+------------
 
 .. toctree::
 
-   cow
-   dog
+   lab1
+   lab2
