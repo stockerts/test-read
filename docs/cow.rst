@@ -4,4 +4,4 @@ COW
 .. autosummary::
    :toctree: generated
 
-   lumache
+   cow
