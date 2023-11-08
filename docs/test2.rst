@@ -1,7 +1,7 @@
-Test2
+API
 ===
 
 .. autosummary::
    :toctree: generated
 
-  Test2
+   lumache
