@@ -3,8 +3,8 @@
 # -- Project information
 
 #project = 'test-read'
-#copyright = '2023, Stock'
-#author = 'Stock'
+copyright = '2023'
+author = 'Stock'
 
 release = '0.1'
 version = '0.1.0'
@@ -32,4 +32,4 @@ templates_path = ['_templates']
 html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
-#epub_show_urls = 'footnote'
+epub_show_urls = 'footnote'
